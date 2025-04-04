@@ -1,0 +1,11 @@
+int chdir(const char *path)
+
+
+else if(strncmp("pwd",buffer,3)==0){
+		char s[100];
+    		//Printing the current working directory
+    		printf("%s\n",getcwd(s,100));
+    		while(gets(container , 1024,fp)!=NULL){
+				strcat(total_response, container);
+			}
+			send(sock , total_response, sizeof(total_response),0);

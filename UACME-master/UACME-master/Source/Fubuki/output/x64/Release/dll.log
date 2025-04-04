@@ -1,0 +1,23 @@
+﻿  cmdline.c
+  u64tostr.c
+  ultohex.c
+  ultostr.c
+  util.c
+  windefend.c
+  _filename.c
+  _strcat.c
+  _strcmpi.c
+  _strcpy.c
+  _strend.c
+  _strlen.c
+  _strncpy.c
+  _strstri.c
+  dllmain.c
+  pca.c
+  uihacks.c
+     Creating library .\output\x64\Release\Fubuki64.lib and object .\output\x64\Release\Fubuki64.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 62 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  dll.vcxproj -> C:\Users\Vikram\OneDrive\Documents\on\Desktop\5th_Sem\CCN-proj\UACME-master\UACME-master\Source\Fubuki\output\x64\Release\Fubuki64.dll

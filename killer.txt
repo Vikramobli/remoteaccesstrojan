@@ -1,0 +1,2 @@
+taskkill /IM notepad.exe  -----To normal kill
+taskkill /F /IM notepad.exe    ===== To 

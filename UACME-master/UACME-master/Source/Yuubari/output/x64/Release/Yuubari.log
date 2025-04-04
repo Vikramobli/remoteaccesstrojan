@@ -1,0 +1,27 @@
+﻿  cmdline.c
+  hde64.c
+  strtoi.c
+  ultostr.c
+  _filename.c
+  _strcat.c
+  _strcmp.c
+  _strcmpi.c
+  _strcpy.c
+  _strend.c
+  _strlen.c
+  _strncmp.c
+  _strncpy.c
+  appinfo.c
+  basic.c
+  comobj.c
+  cui.c
+  fusion.c
+  logger.c
+  main.c
+  sup.c
+  test_fusion.c
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 69 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Yuubari.vcxproj -> C:\Users\Vikram\OneDrive\Documents\on\Desktop\5th_Sem\CCN-proj\UACME-master\UACME-master\Source\Yuubari\output\x64\Release\UacInfo64.exe
